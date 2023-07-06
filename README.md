@@ -4,3 +4,5 @@ school related work for EDS 124BR at UCSD
 Link: https://youtu.be/nKy0eb6aU78
 # Show What You Know: Write and Explain a Program (breakdancer)
 Link: https://youtu.be/RlDYxRy8ht8
+# Teaching Programming Portfolio - Lesson Plan
+Link: https://youtu.be/NunN4DnWvbM
