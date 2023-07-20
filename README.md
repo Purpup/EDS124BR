@@ -14,3 +14,5 @@ Link: https://youtu.be/VuC2p4njO_g
 Link: https://youtu.be/JnIHlN7lN-o
 # Show What You Know: Write and Explain a Program (conditional repeats)
 Link: https://youtu.be/gh3KTtbIZ3E
+# Show What You Know: Write and Explain a Program (if else)
+Link: https://youtu.be/2e4LeDuWtOU
