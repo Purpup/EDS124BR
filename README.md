@@ -12,3 +12,5 @@ Link: https://youtu.be/q8gi_hOWNAg
 Link: https://youtu.be/VuC2p4njO_g
 # Show What You Know: Write and Explain a Program (variables)
 Link: https://youtu.be/JnIHlN7lN-o
+# Show What You Know: Write and Explain a Program (conditional repeats)
+Link: https://youtu.be/gh3KTtbIZ3E
