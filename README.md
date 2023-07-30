@@ -16,3 +16,7 @@ Link: https://youtu.be/JnIHlN7lN-o
 Link: https://youtu.be/gh3KTtbIZ3E
 # Show What You Know: Write and Explain a Program (if else)
 Link: https://youtu.be/2e4LeDuWtOU
+# Show What You Know: Write and Explain a Program (nested if else)
+Link: https://youtu.be/pNQM0AGb9eo
+# Show What You Know: Write and Explain a Program (compound conditionals)
+Link: https://youtu.be/uJEF2D_kfxE
