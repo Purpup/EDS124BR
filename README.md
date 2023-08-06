@@ -20,3 +20,7 @@ Link: https://youtu.be/2e4LeDuWtOU
 Link: https://youtu.be/pNQM0AGb9eo
 # Show What You Know: Write and Explain a Program (compound conditionals)
 Link: https://youtu.be/uJEF2D_kfxE
+# Show What You Know: Write and Explain a Program (abstraction)
+Link: https://youtu.be/RRTG3DWWjr4
+# Show What You Know: Write and Explain a Program (lists)
+Link: https://youtu.be/UHw2eGVazgs
